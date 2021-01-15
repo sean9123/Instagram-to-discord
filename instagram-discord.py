@@ -24,7 +24,7 @@ import os
 # Replace WEBHOOK_URL with Discord account webhook url. To know how, just Google: "how to create webhook discord".
 # Replace DATABASE with any finename you want to use as temporary data for script store last imageID posted.
 
-INSTAGRAM_USERNAME = "lxuluv_" # Example: ladygaga
+INSTAGRAM_USERNAME = "antithedoggy" # Example: ladygaga
 WEBHOOK_URL = "https://discord.com/api/webhooks/799689173824569354/WtatnWkCFMAHwAxGco6KqyeSvxvKJ-o5zYZp6c4v3uVnZ-kPvsOZwC_NHijKLC0JXbtX"                # Url to your discord webhook
 DATABASE = "database.txt"
 
